@@ -1,6 +1,6 @@
 {
   "name": "jquery-on-scrolled-to",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "jQuery plugin to execute code when specific element becomes visible. I.e. when it reaches viewport, visitor scrolls to it or window resized so that element becomes visible.",
   "main": "on-scrolled-to.min.js",
   "devDependencies": {
