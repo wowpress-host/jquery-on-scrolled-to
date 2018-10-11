@@ -22,6 +22,7 @@
     height: 300px;
     background: white;
     transition: background-color 1000ms linear;
+    margin-bottom: 10px;
 }
 
 .fired-0 {

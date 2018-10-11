@@ -6,7 +6,7 @@ I.e. when it reaches viewport, visitor scrolls to it or window resized so that e
 
 # Demo
 
-[https://wowpress.host/jquery-on-scrolled-to/](https://wowpress.host/jquery-on-scrolled-to/)
+[https://wowpress.host/plugins/jquery-on-scrolled-to/](https://wowpress.host/plugins/jquery-on-scrolled-to/)
 
 # Install
 
