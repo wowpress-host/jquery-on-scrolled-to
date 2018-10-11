@@ -1,0 +1,33 @@
+{
+  "name": "jquery-on-scrolled-to",
+  "version": "1.0",
+  "description": "jQuery plugin to execute code when specific element becomes visible. I.e. when it reaches viewport, visitor scrolls to it or window resized so that element becomes visible.",
+  "main": "on-scrolled-to.min.js",
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "echo 'n/a'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wowpress-host/jquery-on-scrolled-to.git"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "scroll",
+    "viewport",
+    "visible",
+    "on-scrolled-to"
+  ],
+  "author": {
+    "name": "wowpress-host",
+    "email": "",
+    "url": "https://wowpress.host"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wowpress-host/jquery-on-scrolled-to"
+  },
+  "homepage": "https://wowpress.host/jquery-on-scrolled-to/"
+}
